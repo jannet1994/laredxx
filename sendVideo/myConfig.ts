@@ -1,3 +1,3 @@
-const N_VIDEOS = 4
+const N_VIDEOS = 3
 
 export { N_VIDEOS }
